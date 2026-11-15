@@ -60,7 +60,7 @@
     <properties>
         <!-- Los modelos reales no entran en verify: -Dgroups=ai-real -DexcludedGroups= los activa -->
         <excludedGroups>ai-real</excludedGroups>
-        <archunit.version>1.4.1</archunit.version>
+        <archunit.version>1.5.1</archunit.version>
     </properties>
 
     <build>
