@@ -15,7 +15,7 @@
     <description>Wallpapers: presets, encuadre, remuestreo, relleno y plan multi-destino. Logica pura, solo java.base y el nucleo.</description>
 
     <properties>
-        <archunit.version>1.4.1</archunit.version>
+        <archunit.version>1.5.1</archunit.version>
     </properties>
 
     <dependencies>

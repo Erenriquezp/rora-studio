@@ -80,7 +80,7 @@
     <properties>
         <!-- JavaFX 25 exige JDK 23 o superior; core-imaging sigue en 21 -->
         <maven.compiler.release>25</maven.compiler.release>
-        <archunit.version>1.4.1</archunit.version>
+        <archunit.version>1.5.1</archunit.version>
         <skip.memory>false</skip.memory>
     </properties>
 
